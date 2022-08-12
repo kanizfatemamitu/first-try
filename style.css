@@ -1,7 +1,22 @@
 body{
-    background-color:gray;
+    background-color:rgb(236, 226, 226);
+    margin:100px auto;
+    padding: 100px;
+    height: 800px;
+    width: 800px;
+
+}
+
+ .lorem h1{
+  font-style: italic;
+  font-size: 80px;
+  margin-bottom:5px;
 }
 
 h1{
     text-align: center;
+}
+p{
+    text-align: justify;
+    line-height: 23px;
 }
